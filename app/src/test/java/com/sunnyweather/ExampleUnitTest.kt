@@ -1,4 +1,4 @@
-package com.example.sunnyweather
+package com.sunnyweather
 
 import org.junit.Test
 
